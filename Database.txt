@@ -9,3 +9,6 @@ Database Query-
    5. ORDER BY
    6. JOIN
    7.INNER JOIN
+   8. OUTER JOIN
+   9. CREATE
+   10.INSERT
